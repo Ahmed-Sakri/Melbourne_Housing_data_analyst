@@ -58,6 +58,8 @@ Melbourne's property market during 2016-2017 reveals a diverse ecosystem with cl
     ![](/Pictors/output6.png)
  4. We also discuss the Type vs. Price: How do houses (h), townhouses (t), and units (u) compare in median price and price distribution?
    We answered that by visualizing it:
+
+
    ![](/Pictors/output.png)
 
 ###  Geospatial and Location Intelligence
