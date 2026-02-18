@@ -55,10 +55,10 @@ Melbourne's property market during 2016-2017 reveals a diverse ecosystem with cl
  3. We also take a look at the price trend over the Date of sale (seasonality and yearly), we find out this:
     1. In the yearly case, there is no difference, and it is almost the same, with 2017 sales are slitly better than 2016.
     2. Seasonality, we came up with this visualization:
-    ![](Pictors\output6.png)
+    ![](Pictors/output6.png)
  4. We also discuss the Type vs. Price: How do houses (h), townhouses (t), and units (u) compare in median price and price distribution?
    We answered that by visualizing it:
-   ![](Pictors\output.png)
+   ![](Pictors/output.png)
 
 ###  Geospatial and Location Intelligence
 #### 🗺️ The Melbourne Value Map: Beyond Distance
@@ -78,12 +78,12 @@ CORRELATION RESULTS TABLE
 The trend line between the price and the distance from the CBD
 ======
  
- ![](Pictors\output3.png)
+ ![](Pictors/output3.png)
 
 Melbourne Housing Prices: Geographic Distribution
 =====
 
-![](Pictors\output4.png)
+![](Pictors/output4.png)
 
 ###  Property Characteristics & Value
 #### 🏠 The Property DNA: What Buyers Are Really Paying For
@@ -110,7 +110,7 @@ and that got answered by this table
 
 
 3. Does YearBuilt (age of property) affect price? To answer that, we used Python libraries (pandas\numpy\matplotlib\seaborn) and came out with this cool visualization:
-![](Pictors\output5.png)
+![](Pictors/output5.png)
 
 ### Sales Process & Agent Performance (Business Insights)
 #### 🏢 The Agent Ecosystem: Who's Moving Melbourne's Market?
